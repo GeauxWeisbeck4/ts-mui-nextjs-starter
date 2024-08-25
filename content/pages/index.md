@@ -11,7 +11,7 @@ sections:
       season!
     actions:
       - type: Button
-        label: Join COmmunity
+        label: Join Community
         url: 'https://reddit.com/huskerjs'
         size: large
         variant: contained
