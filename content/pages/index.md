@@ -15,7 +15,7 @@ sections:
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
-        color: inherit
+        color: secondary
       - type: Button
         label: Read the blog
         url: 'https://docs.netlify.com/visual-editor/overview/'
