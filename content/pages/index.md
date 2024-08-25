@@ -18,7 +18,7 @@ sections:
         color: secondary
       - type: Button
         label: Read the blog
-        url: 'https://docs.netlify.com/visual-editor/overview/'
+        url: 'https://huskerjs.netlify.dev/blog'
         size: large
         variant: outlined
         color: secondary
