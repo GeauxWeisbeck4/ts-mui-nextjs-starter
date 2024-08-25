@@ -14,7 +14,7 @@ sections:
         label: Join COmmunity
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
-        variant: contained
+        variant: outlined
         color: secondary
       - type: Button
         label: Read the blog
