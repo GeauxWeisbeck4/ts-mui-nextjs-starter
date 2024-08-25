@@ -12,7 +12,7 @@ sections:
     actions:
       - type: Button
         label: Join COmmunity
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url: 'https://reddit.com/huskerjs'
         size: large
         variant: contained
         color: secondary
