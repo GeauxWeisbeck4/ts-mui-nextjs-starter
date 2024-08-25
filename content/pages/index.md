@@ -6,9 +6,9 @@ sections:
     title: Everyday is Saturday
     subtitle: There is no place like HuskerJS
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      Welcome to the latest version of the HuskerJS blog website! I am excited
+      to bring you the second version of this site - just in time for the new
+      season!
     actions:
       - type: Button
         label: Start Building
