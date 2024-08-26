@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: About HuskerJS
-    subtitle: This is the subtitle
+    subtitle: A College Football experience
     text: >
       This is **Markdown** *text*.
 
